@@ -11,4 +11,4 @@ return result;
 
 var MyResult = Add(60,40);
 
-console.WriteLine("My Answer is {0} ",MyResult);
+Alert(Add(60,40));
